@@ -2,15 +2,22 @@ section {
 	width: 800px;
 	margin: 100px auto;
 }
+
 section h1,
 section p {
 	text-align: center;
 	color: #454545;
+	text-transform: uppercase;
 }
+
 section h1 {
 	font: 32px 'Open Sans';
 	font-weight: bold;
+	color: darkblue;
 }
+
 section p {
 	font: 16px 'Open Sans';
+	color: darkslategray;
+	font-weight: 600;
 }
